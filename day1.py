@@ -7,7 +7,7 @@ v2 = np.array([[3, 1],[2, 6]])
 print(f"Total item of v1 => {v1.size}")
 
 #Shape of v1
-print(f"Dimension of v1 => {v1.shape}")
+print(f"Shape of v1 => {v1.shape}")
 
 #Scalar product
 print(2 * v1)
